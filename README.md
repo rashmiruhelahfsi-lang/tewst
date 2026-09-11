@@ -1,7 +1,7 @@
 # Biology Question Papers — Set A and Set B
 
-Two complete Biology question papers built from the supplied question banks
-(MCQ, theory and structured/practical questions), plus a combined answer key.
+Two Biology question papers assembled from the supplied question banks, plus an
+answer key. Students write their answers on the question paper itself.
 
 ## Files
 
@@ -9,7 +9,7 @@ Two complete Biology question papers built from the supplied question banks
 | --- | --- |
 | `Biology_Question_Paper_Set_A.docx` | Set A — main question paper (80 marks) |
 | `Biology_Question_Paper_Set_B.docx` | Set B — sample question paper (80 marks) |
-| `Biology_Answer_Key_Set_A_and_Set_B.docx` | Answer key and marking scheme for both sets |
+| `Biology_Answer_Key_Set_A_and_Set_B.docx` | Answer key for both sets |
 
 ## Paper structure (identical in both sets)
 
@@ -21,16 +21,27 @@ Two complete Biology question papers built from the supplied question banks
 | C | Q IV | Diagram based / alternative to practical | 20 |
 | | | **Total** | **80** |
 
+## How the questions were taken from the source
+
+* Question wording is reproduced exactly as it appears in the source papers.
+* Every figure, graph, photograph and data table is the original image or table
+  from the source, reproduced as-is.
+* Multiple choice options are the source's own options, in the source's order.
+  Where the source presents the options as a table or as lettered diagrams, the
+  table or diagrams are reproduced instead of a lettered list.
+* Mark allocations are the source's own, e.g. `(1 mark)`, `(3 marks)`, `[2]`.
+* No question is used in both sets.
+* Figure and table numbers were renumbered sequentially within each main
+  question where two source questions both used "Fig. 1", and the in-text
+  references were updated to match. Nothing else was changed.
+
 ## Formatting
 
-* Page 1 of each file is the cover page only; the paper itself starts on page 2.
+* Page 1 of each file is the cover page only; the paper starts on page 2.
 * Narrow margins (0.5" on all four sides).
 * Arial, 12 pt, line spacing 1.5, all text centre-aligned.
 * Page numbers at the bottom centre of every page.
 * Main questions numbered Q I, Q II, Q III, Q IV; sub-questions as (a), (b), (c)
   and (i), (ii), (iii).
-* Marks shown in brackets at the end of every question, e.g. `(5)`.
-* Blank writing space left after each question, scaled to the marks available.
-
-No question is used in both sets — the 40 multiple choice questions and all
-structured questions are distinct across Set A and Set B.
+* Marks in brackets at the end of each question.
+* Writing space left after every question, scaled to the marks available.
